@@ -48,7 +48,7 @@ High Frequency of Purchase and, Average Sales per Customer compared to the other
 - Used p-value calculation and found statistically significant TOT_SALES difference (pval < 5%) between "Mainstream Young Midage" to "Budget and Premium Young Midage" segment.
 - Divided groupby sum to groupby nunique to get average amount of chips bought per customer segment. Older and Young Families bought the highest average amount of chips.
 - Unstacked the groupby and plotted it by segment:
-![Average Chips per Customer](/Data Visualizations/Task 1/Average_Purchase.png)
+![Average Chips per Customer](/Data Visualizations/Task 1/Average_Purchase.png?)
 
 #### Trends and Insights
 - Top 3 total sales contributor segment are
