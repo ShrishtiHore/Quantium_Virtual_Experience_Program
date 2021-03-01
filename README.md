@@ -6,7 +6,9 @@
 ---
 
 ## Code and Resources Used
+
 **Python Version:** 3.7
+
 **Packages:** pandas, numpy, seaborn, sklearn, matplotlib, datetime, scipy
 
 ---
